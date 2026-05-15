@@ -41,3 +41,21 @@ Folder structure:
  *Backend
  *Database 
 
+code execution and sample outputs
+<img width="1000" height="1600" alt="e4a047bf-8b12-4556-ab89-8764a66c2e30" src="https://github.com/user-attachments/assets/76df0740-1795-4d95-9e38-3deb3fc446fc" />
+
+<img width="1000" height="1600" alt="e4ebd8ad-59c3-47ec-b48e-0f6d79ce901a" src="https://github.com/user-attachments/assets/4c1ead6f-7689-4bab-a8db-2acd0867cfaa" />
+
+<img width="655" height="1600" alt="dbce011a-752c-434d-9ae1-5fba2e3586f1" src="https://github.com/user-attachments/assets/c5881133-c361-4e4c-9874-d1787c109937" />
+
+<img width="1000" height="1600" alt="9bf1410d-636f-486c-b1f6-e2da3439d01b" src="https://github.com/user-attachments/assets/4b675ea0-defa-4917-ad8e-54f89131d015" />
+
+<img width="1000" height="1600" alt="30d132cb-3cfd-442b-9d83-c3c7745a4cfa" src="https://github.com/user-attachments/assets/799c0d8d-a5d0-4710-8ca6-a6e51db9aacc" />
+
+
+
+
+
+
+
+
